@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/markewycz/markewycz/blob/master/devcard.svg" width="400" alt="Gracjan Markiewicz's Dev Card"/></a>
+<a href="https://app.daily.dev/markewycz"><img src="https://github.com/markewycz/markewycz/blob/master/devcard.svg" width="400" alt="Gracjan Markiewicz's Dev Card"/></a>
 
 <!--
 **Markewycz/markewycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
