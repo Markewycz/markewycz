@@ -5,7 +5,7 @@ Hi 👋 My name is Gracjan Markiewicz
 ==========================================================================================================================================
 
 I come from Poland, but I'm currently living in Denmark where I'm pursuing my dream of becoming a full-stack web developer. 
-</br></br> I'm self-taught, and I've been working hard to expand my skills and knowledge. I'm focused on learning Java\cript, React, TypeScript and if there's enough time Python, but I'm always eager to learn more.
+</br></br> I'm self-taught, and I've been working hard to expand my skills and knowledge. I'm focused on learning JavaScript, React, TypeScript and if there's enough time Python, but I'm always eager to learn more.
 </br></br> I'm planning to do a little bit of UI work in Figma or different software in the future.
 </br></br>
 
