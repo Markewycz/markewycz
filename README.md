@@ -12,7 +12,7 @@ I come from Poland, but I'm currently living in Denmark where I'm pursuing my dr
 * 🌍  I'm based in Denmark
 * 🖥️  See my portfolio at ~~[gmarkiewicz.io]()~~
 * ✉️  You can contact me at [gracjanmarkiewicz00@gmail.com](mailto:gracjanmarkiewicz00@gmail.com)
-* 🧠  I'm learning ReactJS, TypeScript, Python
+* 🧠  I'm learning Advanced JavaScript
 
 ### Skills
 
