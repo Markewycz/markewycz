@@ -5,12 +5,11 @@ Hi 👋 My name is Gracjan Markiewicz
 ==========================================================================================================================================
 
 I come from Poland, but I'm currently living in Denmark where I'm pursuing my dream of becoming a full-stack web developer. 
-</br></br> I'm self-taught, and I've been working hard to expand my skills and knowledge. I'm focused on learning JavaScript, React, TypeScript and if there's enough time Python, but I'm always eager to learn more.
-</br></br> I'm planning to do a little bit of UI work in Figma or different software in the future.
+</br></br> I'm self-taught, and I've been working hard to expand my skills and knowledge. I'm currently focused on learning JavaScript, React and TypeScript, but I'm always eager to learn more.
+</br></br> I plan to do a little bit of UI work in Figma soon.
 </br></br>
 
 * 🌍  I'm based in Denmark
-* 🖥️  See my portfolio at ~~[gmarkiewicz.io]()~~
 * ✉️  You can contact me at [gracjanmarkiewicz00@gmail.com](mailto:gracjanmarkiewicz00@gmail.com)
 * 🧠  I'm learning Advanced JavaScript
 
