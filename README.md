@@ -6,7 +6,6 @@ Hi 👋 My name is Gracjan
 
 I come from Poland, but I'm currently living in Denmark where I'm pursuing my dream of becoming a full-stack web developer. 
 </br></br> I'm self-taught, and I've been working hard to expand my skills and knowledge. I'm currently focused on learning JavaScript, React and TypeScript, but I'm always eager to learn more.
-</br></br> I plan to do a little bit of UI work in Figma soon.
 </br></br>
 
 * 🌍  I'm based in Denmark
