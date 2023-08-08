@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
 <a href="https://app.daily.dev/markewycz"><img src="https://github.com/Markewycz/markewycz/blob/main/devcard.svg" width="400" alt="Gracjan Markiewicz's Dev Card"/></a> -->
 
-Hi 👋 My name is Gracjan Markiewicz
+Hi 👋 My name is Gracjan
 ==========================================================================================================================================
 
 I come from Poland, but I'm currently living in Denmark where I'm pursuing my dream of becoming a full-stack web developer. 
