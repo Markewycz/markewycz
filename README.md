@@ -5,12 +5,12 @@ Hi 👋 My name is Gracjan
 ==========================================================================================================================================
 
 I come from Poland, but I'm currently living in Denmark where I'm pursuing my dream of becoming a full-stack web developer. 
-</br></br> I'm self-taught, and I've been working hard to expand my skills and knowledge. I'm currently focused on learning JavaScript, React and TypeScript.
+</br></br> I'm self-taught, and I've been working hard to expand my skills and knowledge. I'm currently focused on learning React.
 </br></br>
 
 * 🌍  I'm based in Denmark
 * ✉️  You can contact me at [gracjanmarkiewicz00@gmail.com](mailto:gracjanmarkiewicz00@gmail.com)
-* 🧠  I'm learning Advanced JavaScript
+* 🧠  I'm learning React
 
 ### Skills
 
@@ -39,8 +39,6 @@ I come from Poland, but I'm currently living in Denmark where I'm pursuing my dr
 <a href="https://www.linkedin.com/in/gracjan-markiewicz-88652b258/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/markewycz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=markewycz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
