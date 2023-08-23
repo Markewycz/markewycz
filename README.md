@@ -1,43 +1,57 @@
-<!-- ### Hi there 👋
-<a href="https://app.daily.dev/markewycz"><img src="https://github.com/Markewycz/markewycz/blob/main/devcard.svg" width="400" alt="Gracjan Markiewicz's Dev Card"/></a> -->
+<h1 align="left">Hey there👋</h1>
 
-Hi 👋 My name is Gracjan
-==========================================================================================================================================
+###
 
-I come from Poland, but I'm currently living in Denmark where I'm pursuing my dream of becoming a full-stack web developer. 
-</br></br> I'm self-taught, and I've been working hard to expand my skills and knowledge. I'm currently focused on learning React.
-</br></br>
+<p align="left">My name is Gracjan and I'm a Frontend Developer, from Poland, based in Denmark. <br>I'm self-taught, and I'm working hard to expand my skills and knowledge.</p>
 
-* 🌍  I'm based in Denmark
-* ✉️  You can contact me at [gracjanmarkiewicz00@gmail.com](mailto:gracjanmarkiewicz00@gmail.com)
-* 🧠  I'm learning React
+###
 
-### Skills
+<p align="left">📚 I'm currently learning TypeScript with React.<br>✉️  You can contact me at gracjanmarkiewicz00@gmail.com</p>
 
+###
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> -->
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/"><img src="https://github.com/Markewycz/markewycz/assets/118677334/65b54178-5268-4d84-8b99-7557fc891374" width="36" height="36" alt="Tailwind CSS"/></a>
+<div align="left">
+</div>
 
+###
 
+<h2 align="left">Skills</h2>
 
+###
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/"><img src="https://github.com/Markewycz/markewycz/assets/118677334/47879065-08c3-4bf8-9c89-96d481bce618" width="36" height="36" alt="Babel"/></a>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /> -->
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+</div>
 
+###
 
-### Socials
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+</div>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/gracjan-markiewicz-88652b258/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+###
 
-### My GitHub Stats
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
+  <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
 
-<a href="http://www.github.com/markewycz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=markewycz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=markewycz&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=markewycz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
