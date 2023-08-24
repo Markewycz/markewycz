@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gracjan and I'm a Frontend Developer, from Poland, based in Denmark. <br>I'm self-taught, and I'm working hard to expand my skills and knowledge.</p>
+<p align="left">My name is Gracjan and I'm a Frontend Developer from Poland, based in Denmark. <br>I'm self-taught, and I'm working hard to expand my skills and knowledge.</p>
 
 ###
 
